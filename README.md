@@ -17,7 +17,7 @@ A modern and interactive bike shopping app built with Flutter. Designed to provi
 
 
 #  Screenshots
-<img src="assets/img/vid.gif" height="350em" />
+<img src="assets/img/vid2.gif" height="350em" />
 
 
 
